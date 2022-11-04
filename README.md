@@ -6,6 +6,7 @@
 - ROS Noetic
 - Gazebo
 - Husky
+- PlotJuggler
 
 **Observação:** Antes de rodar os packages que serão descritos abaixo, rodar o seguinte comando, dentro da pasta worskpace/husky_robot_localization/src para cada um dos arquivos .py:
 
